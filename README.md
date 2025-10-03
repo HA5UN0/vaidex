@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
@@ -39,3 +40,7 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+=======
+# vaidex
+a gaming wiki.  Info and Guides to help people enjoy the games they play.
+>>>>>>> 5a85f2933362c4906b035e12b16bba9e7c4d283a
