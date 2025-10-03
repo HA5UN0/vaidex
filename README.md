@@ -1,2 +1,2 @@
 # vaidex
-a gaming wiki.  Info and games to help people enjoy the games they play.
+a gaming wiki.  Info and Guides to help people enjoy the games they play.
