@@ -9,17 +9,21 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // MASTER LINK GO HERE ----------------------------
 const HUB_LINKS = {
-  bp: '/docs/blue-protocol/bpsr-hub',
-  hna: '/docs/honkai-nexus-anima/hna-hub',
-  me: '/docs/mass-effect/mass-effect-hub',
-/*   me1: '/docs/mass-effect/mass-effect1',
+  bp:'/docs/blue-protocol/bpsr-hub',
+  hna:'/docs/honkai-nexus-anima/hna-hub',
+  me:'/docs/mass-effect/mass-effect-hub',
+  /*   
+  me1: '/docs/mass-effect/mass-effect1',
   me2: '/docs/mass-effect/mass-effect2',
-  me3: '/docs/mass-effect/mass-effect3', */
+  me3: '/docs/mass-effect/mass-effect3', 
+  */
   soa:'/docs/skies-of-arcadia/soa-hub',
-/*   sona:'/docs/persona/persona-hub',
+  sona:'/docs/persona/persona-hub',
+  /*
   sona3:'/docs/persona/persona3',
   sona4:'/docs/persona/persona4',
-  sona5:'/docs/persona/persona5', */
+  sona5:'/docs/persona/persona5', 
+  */
 };
 
 
@@ -110,10 +114,11 @@ const config = {
 
           // skies or arcadia
           {
-            type: 'docSidebar',
+            /* type: 'docSidebar', */
             sidebarId: 'soaSidebar',
             position: 'left',
             label: 'Skies of Arcadia',
+            to: HUB_LINKS.soa,
           },
 
           // ---------- all games dropdown ----------------
@@ -125,7 +130,7 @@ const config = {
                   { label: "Honkai Nexus Anima", to: HUB_LINKS.hna },
                   { label: "Skies of Arcadia", to: HUB_LINKS.soa },
                   { label: "Mass Effect", to: HUB_LINKS.me },
-                  { label: "Persona Remakes", to: HUB_LINKS.sona },
+                  { label: "Persona", to: HUB_LINKS.sona },
               ],
           },
 /* 
@@ -183,23 +188,23 @@ const config = {
             items: [
               {
                 label: 'Skies of Arcadia',
-                to: '/docs/skies-of-arcadia',
+                to: HUB_LINKS.soa,
               },
               {
                 label: 'Blue Protocol',
-                to: '/docs/blue-protocol',
+                to: HUB_LINKS.bp,
               },
               {
                 label: 'Honkai Nexus Anima',
-                to: '/docs/honkai-nexus-anima',
+                to: HUB_LINKS.hna,
               },
               {
                 label: 'Mass Effect',
-                to: '/docs/mass-effect',
+                to: HUB_LINKS.me,
               },
               {
                 label: 'Persona',
-                to: '/docs/persona',
+                to: HUB_LINKS.sona,
               },
             ],
           },

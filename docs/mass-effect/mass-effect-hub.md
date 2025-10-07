@@ -1,10 +1,10 @@
 ---
-id: mass-effect-legendary-edition
-title: Mass Effect: Legendary Edition
-sidebar_label: Mass Effect: Legendary Edition
-accentColor: "#ff4c4c"
-banner: "/img/bpsr-banner1.jpg"
-description: BioWare’s definitive edition of the iconic sci-fi RPG trilogy, remastered for modern platforms.
+#id: mass-effect-legendary-edition
+#title: Mass Effect: Legendary Edition
+#sidebar_label: Mass Effect: Legendary Edition
+#accentColor: "#ff4c4c"
+#banner: "/img/bpsr-banner1.jpg"
+#description: BioWare’s definitive edition of the iconic sci-fi RPG trilogy, remastered for modern platforms.
 ---
 
 # 🚀 Mass Effect: Legendary Edition
