@@ -46,13 +46,13 @@ Long ago, the planet Regnas was on the brink of destruction. Now, remnants of an
 - Story Companions  
 - Player Customization  
 
-*→ [See all characters](./characters/)*
+*→ 
 
 ---
 
 ## 📜 Lore
 Explore divine technology, ancient conflicts, and the truth behind **Engram** and the gods.  
-*→ [Lore Archive](./lore/)*
+*→ 
 
 ---
 
@@ -64,6 +64,5 @@ Explore divine technology, ancient conflicts, and the truth behind **Engram** an
 ---
 
 ## 🌐 External Links
-<!--  - [Official Website](https://blue-protocol.com)
- -->
+
 

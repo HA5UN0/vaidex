@@ -41,13 +41,13 @@ The world of Arcadia is divided into six nations under six moons — each moon s
 
 ## 💫 Characters
 Meet the Blue Rogues and their allies.  
-*→ [Character List](./characters/)*
+*→ 
 
 ---
 
 ## 📜 Lore
 The ancient civilizations of Arcadia and the power of the Moon Crystals.  
-*→ [Lore Records](./lore/)*
+*→ 
 
 ---
 
@@ -57,5 +57,5 @@ Screenshots, remastered art, and key visuals.
 ---
 
 ## 🌐 External Links
-- [Fan Wiki](https://skiesofarcadia.fandom.com/)
+- 
 ```

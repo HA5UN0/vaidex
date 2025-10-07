@@ -41,13 +41,13 @@ The Milky Way teeters on the brink of annihilation as ancient machines — the *
 
 ## 💫 Characters
 A legendary cast from Shepard to Garrus, Liara, and Tali.  
-*→ [Character Database](./characters/)*
+*→ 
 
 ---
 
 ## 📜 Lore
 Explore the origins of the Reapers, the Citadel species, and ancient galactic history.  
-*→ [Codex Archive](./lore/)*
+*→ 
 
 ---
 

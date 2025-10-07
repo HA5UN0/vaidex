@@ -40,13 +40,13 @@ Each Persona title blends everyday life with the metaphysical, exploring the dua
 
 ## 💫 Characters
 Iconic casts from SEES to the Phantom Thieves.  
-*→ [Character Profiles](./characters/)*
+*→ 
 
 ---
 
 ## 📜 Lore
 Explore the Velvet Room, Shadows, and the nature of cognition.  
-*→ [Lore Archive](./lore/)*
+*→ 
 
 ---
 

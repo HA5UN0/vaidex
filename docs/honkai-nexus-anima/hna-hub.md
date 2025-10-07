@@ -40,13 +40,13 @@ Set in a post-human world governed by data gods and digital ghosts. You are a **
 
 ## 💫 Characters
 An ensemble cast of digital phantoms, mercenaries, and constructs.  
-*→ [Character Archive](./characters/)*
+*→ 
 
 ---
 
 ## 📜 Lore
 Explore the philosophy of **Anima** — the essence that bridges machine and soul.  
-*→ [Lore Terminal](./lore/)*
+*→ 
 
 ---
 
