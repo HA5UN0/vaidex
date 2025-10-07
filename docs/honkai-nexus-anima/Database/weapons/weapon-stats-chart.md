@@ -1,0 +1,1 @@
+Sortable tables of all weapons, including their unique passive abilities and max stats.

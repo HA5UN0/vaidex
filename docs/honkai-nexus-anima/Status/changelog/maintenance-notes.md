@@ -1,0 +1,1 @@
+**CRITICAL:** A continuously updated archive of every patch note and hotfix.

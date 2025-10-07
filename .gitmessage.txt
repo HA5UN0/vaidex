@@ -1,0 +1,31 @@
+# Conventional Commit Message Template
+# Format: <type>[(optional scope)][!]: <description>
+#
+# Line 1: Header (Mandatory)
+# --------------------------------------------------------------------------------
+# Max 72 characters ---------------------------------------------------------------->
+<type>(<scope>): <short, imperative description>
+
+# Line 2: Blank line (Mandatory)
+#
+# Line 3+: Body (Optional - Explain 'What' and 'Why', not 'How')
+# --------------------------------------------------------------------------------
+# Wrap body at 72 characters ------------------------------------------------------->
+#
+# Provide more context for the change.
+# - What was the problem/motivation? (The 'Why')
+# - What did the change do from a high-level view? (The 'What')
+# - Explain edge cases, technical decisions, or impacts for detailed patch notes.
+#
+# Note: For non-developer interested parties, focus on the user-facing benefit.
+#
+#
+# Footer (Optional - for issue references and breaking changes)
+# --------------------------------------------------------------------------------
+# Reference any related issues, tickets, or pull requests here.
+# Closes: #<issue-number>
+# Ref: <ticket-link>
+#
+# BREAKING CHANGE: A brief summary of the breaking change.
+# Followed by:
+# Migration Guide: A detailed guide for users on how to migrate.

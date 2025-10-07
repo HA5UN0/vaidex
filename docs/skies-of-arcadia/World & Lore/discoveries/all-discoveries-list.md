@@ -1,0 +1,1 @@
+A complete database of all in-game discoveries, organized by region.

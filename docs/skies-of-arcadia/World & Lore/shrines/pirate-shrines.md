@@ -1,0 +1,1 @@
+Guides focusing on the secrets, not the general dungeon path.

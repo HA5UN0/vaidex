@@ -1,0 +1,1 @@
+Sortable tables listing every single item, stats, and acquisition

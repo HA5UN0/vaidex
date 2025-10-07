@@ -1,0 +1,1 @@
+Tables for weapon stats, upgrades, and modifications across the LE.

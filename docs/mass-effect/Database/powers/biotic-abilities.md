@@ -1,0 +1,1 @@
+Formulas and details for all class powers/abilities.

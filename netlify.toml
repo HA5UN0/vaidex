@@ -1,0 +1,6 @@
+[[redirects]]
+  # The URL pattern you want to use in your HTML
+  from = "/img/:width/:file"
+  # How Netlify should rewrite that URL to use the Image CDN
+  to = "/.netlify/images?url=/images/:file&w=:width"
+  status = 200 # This makes it a rewrite, so the user sees the 'from' URL

@@ -1,0 +1,1 @@
+Detailed guides for classes, focusing on skill rotations and advanced mechanics.

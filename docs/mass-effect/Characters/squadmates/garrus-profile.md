@@ -1,0 +1,1 @@
+Character encyclopedias, including full abilities, background, and romance path.

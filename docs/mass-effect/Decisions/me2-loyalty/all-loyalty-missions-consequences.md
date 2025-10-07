@@ -1,0 +1,1 @@
+Detailed breakdown of mission outcomes and conditions for "best ending."

@@ -1,0 +1,1 @@
+Essential data: HP, Weaknesses, XP/Gold dropped, item steals/drops.

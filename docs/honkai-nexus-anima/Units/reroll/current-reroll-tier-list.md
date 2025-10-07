@@ -1,0 +1,1 @@
+The most-searched content, requiring frequent updates.

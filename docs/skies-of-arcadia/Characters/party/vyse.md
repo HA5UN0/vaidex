@@ -1,0 +1,1 @@
+Encyclopedic biographies, full skill lists, ultimate moves (S-Moves).

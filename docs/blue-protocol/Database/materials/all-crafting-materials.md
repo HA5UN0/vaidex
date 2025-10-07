@@ -1,0 +1,1 @@
+A list of all in-game resources, where to find them, and their uses.
