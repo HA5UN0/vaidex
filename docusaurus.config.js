@@ -12,18 +12,8 @@ const HUB_LINKS = {
   bp:'/docs/blue-protocol/bpsr-hub',
   hna:'/docs/honkai-nexus-anima/hna-hub',
   me:'/docs/mass-effect/mass-effect-hub',
-  /*   
-  me1: '/docs/mass-effect/mass-effect1',
-  me2: '/docs/mass-effect/mass-effect2',
-  me3: '/docs/mass-effect/mass-effect3', 
-  */
   soa:'/docs/skies-of-arcadia/soa-hub',
   sona:'/docs/persona/persona-hub',
-  /*
-  sona3:'/docs/persona/persona3',
-  sona4:'/docs/persona/persona4',
-  sona5:'/docs/persona/persona5', 
-  */
 };
 
 
